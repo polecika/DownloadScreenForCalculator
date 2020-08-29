@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="colorPrimaryRedBtn">#E83773</color>
+    <color name="colorPrimaryDarkRedBtn">#ED1909</color>
+    <color name="colorAccentRedBtn">#EDD823</color>
+    <color name="colorChangeEngineerBtn">#6E4BAB</color>
+
+    <color name="colorTextScreen">#FFFFff</color>
+    <color name="colorTextBackground">#000000</color>
+    <color name="colorBtnScreenNumbers">#ffffE0</color>
+    <color name="colorBtnScreen">#FF8C00</color>
+    <color name="colorChangeBtn">#91CC4C</color>
+</resources>
